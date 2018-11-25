@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/Dao/Mysqlconnect.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/vue/frmTache.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/vue/MainFR.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/vue/NouveauMembreFR.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/vue/AssignertacheFR.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/controler/ServiceImpl.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/Metier/Tache.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/controler/ServiceIlocal.java</file>
+            <file>file:/home/delus-jean-nelka/NetBeansProjects/GestionEquipe1/src/Com/GestionEquipe/Metier/Membre.java</file>
+        </group>
+    </open-files>
+</project-private>
